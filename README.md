@@ -1,4 +1,4 @@
-Hello there! I'm Dalrymple C. Ramos, an IT professional with a passion for technology and innovation.
+Hello there! I'm Dalrymple C. Ramos, an IT professional(hopefully) with a passion for technology and innovation.
 
 As an IT enthusiast, I have a strong background in developing and implementing cutting-edge solutions to address complex challenges.
 
